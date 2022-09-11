@@ -14,7 +14,7 @@
   </div>
   <img src="https://komarev.com/ghpvc/?username=Jihiko-Anna&style=flat-square&color=blue" alt=""/>
   <h1>
-    Hi there 👋
+    Hi there, I'm Anna 👋
   </h1>  
 </div>
 
